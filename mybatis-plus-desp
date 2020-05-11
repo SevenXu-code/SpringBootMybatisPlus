@@ -1,0 +1,2 @@
+Mybtais-Plus是对Mybatis的加强，
+Mapper需要继承BaseMapper<T>
